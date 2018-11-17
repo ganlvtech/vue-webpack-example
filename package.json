@@ -1,0 +1,33 @@
+{
+  "name": "vue-webpack-example",
+  "version": "1.0.0",
+  "description": "A Simple Vue Project Build With Webpack",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ganlvtech/vue-webpack-example.git"
+  },
+  "keywords": [
+    "vue",
+    "webpack",
+    "example",
+    "demo"
+  ],
+  "author": "Ganlv",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ganlvtech/vue-webpack-example/issues"
+  },
+  "homepage": "https://github.com/ganlvtech/vue-webpack-example#readme",
+  "dependencies": {
+    "vue": "^2.5.17"
+  },
+  "devDependencies": {
+    "vue-loader": "^15.4.2",
+    "vue-template-compiler": "^2.5.17",
+    "webpack": "^4.25.1"
+  }
+}
