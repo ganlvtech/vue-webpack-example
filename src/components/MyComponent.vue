@@ -7,12 +7,12 @@
 
 <script>
 export default {
-    props: {
-        msg: {
-            default: 'default message',
-            type: String
-        }
+  props: {
+    msg: {
+      default: "default message",
+      type: String
     }
+  }
 };
 </script>
 

@@ -7,11 +7,11 @@
 </template>
 
 <script>
-import MyComponent from './components/MyComponent.vue';
+import MyComponent from "./components/MyComponent.vue";
 
 export default {
   components: {
-    'my-component': MyComponent
+    "my-component": MyComponent
   }
 };
 </script>
